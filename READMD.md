@@ -7,9 +7,9 @@ This project aims to predict customer churn using machine learning techniques. T
 📦 CustomerChurn
  ┣ 📜 CustomerChurnPrediction.ipynb  # Jupyter Notebook for model development
  ┣ 📜 README.md                       # Project documentation
- ┣ 📜 dataset.csv                      # (If applicable) Dataset used for analysis
+ ┣ 📜 dataset.csv                      # Dataset used for analysis
  ┣ 📜 requirements.txt                 # Required dependencies
- ┗ 📜 model.pkl                        # (If applicable) Trained ML model
+ 
 ```
 
 ### 📊 Dataset
