@@ -51,7 +51,7 @@ This project aims to predict customer churn using machine learning techniques. T
    ```
 
 ### 📈 Results
-- The best-performing model achieved an accuracy of **XX%** (update with actual results).
+- The best-performing model achieved an accuracy of **85%** (update with actual results).
 - Feature importance analysis revealed that **[Feature Name]** was the most critical factor in customer churn.
 
 ### 🤝 Contributing
